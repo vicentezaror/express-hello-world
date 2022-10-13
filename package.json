@@ -1,0 +1,27 @@
+{
+  "name": "express-hello-world",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon --watch index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicentezaror/express-hello-world.git"
+  },
+  "keywords": [],
+  "author": "Vicente Zaror <login@kydor.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vicentezaror/express-hello-world/issues"
+  },
+  "homepage": "https://github.com/vicentezaror/express-hello-world#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
